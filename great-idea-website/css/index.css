@@ -77,3 +77,31 @@ h1, h2, h3, h4, h5 {
 	margin: 0px 40px;
 }
 
+nav {
+	width: 100%;
+	text-align: center;
+	background: blue;
+}
+
+.hero-section {
+	width: auto;
+	height: 300px;
+	display: inline-block;
+	font-size: 3em;
+	background: green;
+}
+
+.hero-section img {
+	background: lightcoral;
+}
+
+.heading-text {
+	text-align: center;
+	width: 300px;
+	background: yellow;
+}
+
+.main-content {
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
+}
