@@ -65,6 +65,10 @@ h1, h2, h3, h4, h5 {
 
 /* Your code starts here! */
 
+/* 
+=========================
+	Nav Bar
+========================= */
 .header-container {
 	display: inline-block;
 }
@@ -83,6 +87,11 @@ nav {
 	background: blue;
 }
 
+/* 
+=========================
+	Main Title
+========================= */
+
 .hero-section {
 	width: auto;
 	height: 300px;
@@ -100,6 +109,11 @@ nav {
 	width: 300px;
 	background: yellow;
 }
+
+/* 
+=========================
+	Main Content
+========================= */
 
 .main-content {
 	border-top: 1px solid black;
