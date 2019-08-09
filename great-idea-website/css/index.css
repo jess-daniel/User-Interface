@@ -64,3 +64,16 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+.header-container {
+	display: inline-block;
+}
+
+.header-container nav {
+	margin: 30px;
+}
+
+.header-container nav a {
+	margin: 0px 40px;
+}
+
