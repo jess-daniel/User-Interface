@@ -75,6 +75,7 @@ h1, h2, h3, h4, h5 {
 ========================= */
 .header-container {
 	display: inline-block;
+	height: 700px;
 }
 
 .header-container nav {
@@ -106,6 +107,13 @@ nav {
 	text-align: center;
 	margin: 150px;
 	font-size: 5em;
+}
+
+button {
+  border: 1px solid black;
+  background-color: white;
+  padding: 5px 40px;
+  font-size: 18px;
 }
 
 /* 
